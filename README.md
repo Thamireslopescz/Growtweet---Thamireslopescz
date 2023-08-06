@@ -48,7 +48,7 @@ Para utilizar o GrowTwitter em sua máquina local, siga os seguintes passos:
 1. Clone o repositório para sua máquina local:
 
 ```bash
-git clone https://github.com/seu-usuario/grow-twitter.git
+git clone [https://github.com/seu-usuario/grow-twitter.git](https://github.com/Thamireslopescz/Growtweet---Thamireslopescz.git)
 ```
 
 2. Instale as dependências do projeto:
