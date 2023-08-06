@@ -1,6 +1,6 @@
 # GrowTwitter - Rede Social Estilo Twitter com Programação Orientada a Objetos
 
-![aaaa](https://github.com/Thamireslopescz/Growtweet---Thamireslopescz/assets/100656019/6aaa8bbd-9426-4db1-add0-a8bcc662ea0c)
+![aaaa-removebg-preview](https://github.com/Thamireslopescz/Growtweet---Thamireslopescz/assets/100656019/c3bab35d-55f7-456f-8389-bf66608525df)
 
 ## Descrição
 
